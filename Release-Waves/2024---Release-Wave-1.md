@@ -1,13 +1,13 @@
 ## [Dynamics 365](./2024---Release-Wave-1/Dynamics-365.md)
 
 
-- Microsoft Copilot for Sales
-- Marketing
+- [Microsoft Copilot for Sales](./2024---Release-Wave-1/Dynamics-365/Microsoft-Copilot-for-Sales.md)
+- ~~Marketing~~ - No scheduled changes for Marketing.
 - [Sales](./2024---Release-Wave-1/Dynamics-365/Sales.md)
-- Microsoft Sales Copilot
-- Commerce
-- Customer Insights
-- Customer Insights - Data
+- ~~Microsoft Sales Copilot~~ - No scheduled changes for Microsoft Sales Copilot.
+- [Commerce](./2024---Release-Wave-1/Dynamics-365/Commerce.md)
+- [Customer Insights](./2024---Release-Wave-1/Dynamics-365/Customer-Insights.md)
+- [Customer Insights - Data](./2024---Release-Wave-1/Dynamics-365/Customer-Insights---Data.md)
 - [Customer Insights - Journeys (formerly Marketing)](./2024---Release-Wave-1/Dynamics-365/Customer-Insights-(Journeys).md)
 - [Customer Service](./2024---Release-Wave-1/Dynamics-365/Customer-Service.md)
 - Field Service
