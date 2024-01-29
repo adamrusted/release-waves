@@ -5,7 +5,7 @@
 - [Sales](./Dynamics-365/Sales.md)
 - ~~Microsoft Sales Copilot~~ - No scheduled changes for Microsoft Sales Copilot.
 - [Commerce](./Dynamics-365/Commerce.md)
-- Customer Insights
+- [Customer Insights](./Dynamics-365/Customer-Insights.md)
 - Customer Insights - Data
 - [Customer Insights - Journeys](./Dynamics-365/Customer-Insights-(Journeys).md)
 - [Customer Service](./Dynamics-365/Customer-Service.md)
