@@ -29,7 +29,7 @@ As a seller, you can:
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Customise lead qualification process for a seamless experience
 
@@ -48,7 +48,7 @@ As a seller, you can:
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 
 ## Experience the new look with refreshed styling
@@ -63,7 +63,7 @@ As a sales professional, you can experience the new look by default as it’ll b
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Work efficiently on lead entity with the enhanced focus mode as default view
 
@@ -81,7 +81,7 @@ As an admin, you will be able to:
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 # Sales execution and sales force automation
 
@@ -95,7 +95,7 @@ As a sales manager or admin, you can configure notification settings as:
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Assign leads, opportunities to sellers based on individual capacity
 
@@ -108,7 +108,7 @@ As an administrator or sales manager, you can:
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 # Copilot & AI innovation
 
@@ -121,7 +121,7 @@ As a seller, you can:
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Boost your sales with product content recommendations
 
@@ -136,7 +136,7 @@ As a seller, you can:
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Get real-time insights with Copilot on the home page
 
@@ -152,7 +152,7 @@ As a seller, you can:
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Use Copilot to get answers from your sales documents
 
@@ -162,7 +162,7 @@ As a seller, you can access relevant sales information from SharePoint through t
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Summarize lengthy emails using Copilot in Dynamics 365 Sales
 
@@ -173,7 +173,7 @@ With this feature, as a sales professional, you will be able to:
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Elevate your sales pitch using Copilot email assistance
 
@@ -185,7 +185,7 @@ Copilot lets you spend less time composing email. With this feature, you can:
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Get a 360-degree view of your account with AI-generated account summary
 
@@ -203,7 +203,7 @@ As a seller, you can:
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 # Sales Engagement
 
@@ -217,7 +217,7 @@ With this enhancement, as a sales manager or the operations team, you can assign
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Plan and perform assigned tasks with preview of sequence steps
 
@@ -228,7 +228,7 @@ As a part of this capability, you will be able to:
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Improve customer engagement with sequence preview
 
@@ -241,4 +241,4 @@ With this enhancement, you can:
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->

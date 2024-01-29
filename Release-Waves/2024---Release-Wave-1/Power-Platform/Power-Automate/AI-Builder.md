@@ -21,7 +21,7 @@ You can revolutionize data visualization with natural language prompts. The prom
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Build the perfect response with copilot in prompt builder
 
@@ -29,7 +29,7 @@ Crafting the ideal GPT prompt is now more intuitive and less technical with the 
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Classify content with AI prompts grounded in Dataverse data
 
@@ -37,7 +37,7 @@ With this new capability, makers can reference Dataverse data records to their G
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Define specific output formats with prompt builder
 
@@ -45,7 +45,7 @@ Prompt builder gives you the possibility to generate and test specific output fo
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Prompt builder supports few-shot learning and validation
 
@@ -53,7 +53,7 @@ Few-shot learning is a prompt engineering technique where the model is given a s
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 # Extend copilot capabilities with AI
 
@@ -65,7 +65,7 @@ In prompt builder, a new option is available to add a data source into AI prompt
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Copilots can process and generate documents
 
@@ -77,7 +77,7 @@ As a first step, you can attach a file to the AI Builder **Create text with GPT*
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 # Governance and administration
 
@@ -92,7 +92,7 @@ Admins can set consumption limits on select environments to maintain control ove
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 # AI governance and administration
 
@@ -102,11 +102,11 @@ Admins can use AI Builder model activity data in Dataverse to monitor inputs and
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Model datasets support application lifecycle management
 
 Model datasets support application lifecycle management (ALM), which allows makers to retrain custom models once they've been deployed to different environments.
 
 ### Impact
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->

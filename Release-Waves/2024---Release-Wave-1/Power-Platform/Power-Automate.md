@@ -21,7 +21,7 @@ This capability supersedes the Automate a Task capability by introducing an inte
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Receive intelligent license recommendations for admins
 
@@ -36,7 +36,7 @@ Admins can:
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## View a Power Automate visual in a Power BI report
 
@@ -50,7 +50,7 @@ With the general availability update, you can see flows outside the Default envi
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 # Copilot for Power Automate
 
@@ -64,7 +64,7 @@ With Copilot for Power Automate Process Mining, users can:
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 # Process Mining
 
@@ -74,7 +74,7 @@ You now have a choice to enable Power Automate Process Mining to connect directl
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 # Desktop flows
 
@@ -84,7 +84,7 @@ As a maker, you're now able to use more than 1,000 cloud connectors, currently a
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Set up fallback UI automation mechanism
 
@@ -92,7 +92,7 @@ The fallback automation mechanism feature provides a reliable solution for UI an
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Power Fx integration with Power Automate for desktop
 
@@ -100,4 +100,4 @@ Power Fx is the low-code language for expressing logic across Microsoft Power Pl
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->

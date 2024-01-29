@@ -26,7 +26,7 @@ This feature provides a modern create page designed for experienced makers. The 
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Visualize and work with complex data using copilot
 
@@ -34,7 +34,7 @@ Today, Power Apps has established a WYSIWYG pattern well perceived by its makers
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 # Building Modern Apps
 
@@ -44,7 +44,7 @@ The current canvas app screen templates will be updated with a new set of modern
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Define sync settings on mobile devices for model-driven apps
 
@@ -55,7 +55,7 @@ Power Apps mobile app users get two new settings in the **Device status** page. 
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Enjoy the new look of model-driven apps
 
@@ -65,7 +65,7 @@ In 2024 release wave 1, the new look becomes the default experience for all mode
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Model-driven apps in Power Platform environments use monthly channel
 
@@ -77,7 +77,7 @@ For more information, go to [Release Channel Overview](https://learn.microsoft.c
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Modernize maker experience security settings
 
@@ -85,7 +85,7 @@ Now, makers can configure security role settings in [Power Apps](https://make.po
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Select columns downloaded on mobile devices
 
@@ -98,7 +98,7 @@ In the main page for the offline profile, you can see for each table how many co
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Share tables and apps as simple as sharing a Word document
 
@@ -106,4 +106,4 @@ The new experience will be similar to how you share apps in Microsoft 365. Maker
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->

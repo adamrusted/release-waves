@@ -31,7 +31,7 @@ Administrators can now add up to 200 route-to-queue rules in a workstream, allow
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Prioritize existing conversations in asynchronous channels
 
@@ -39,7 +39,7 @@ The first-in-first-out prioritization for live channels is based on the conversa
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Update queue memberships for agents in real time
 
@@ -47,7 +47,7 @@ Administrators who manage these updates won't have to wait for 15 minutes for an
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 # Administrator experiences
 
@@ -57,7 +57,7 @@ Released in the last wave, the contact center health check allows administrators
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Create multiple cases from email sent to multiple boxes
 
@@ -71,7 +71,7 @@ Here are the key capabilities of this feature:
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 # Omnichannel
 
@@ -84,7 +84,7 @@ The enhanced outbound dialing experience enables you to:
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Get FedRAMP certified for new features
 
@@ -92,7 +92,7 @@ Microsoft are submitting FedRAMP certifications for the internal and external co
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Mask sensitive data and prevent unauthorized access
 
@@ -104,7 +104,7 @@ This feature provides the following configuration capabilities to prevent unauth
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Rate call quality and provide feedback on improvements
 
@@ -117,7 +117,7 @@ The end of call rating will enable you to:
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## See enhancements in call transfers to external numbers
 
@@ -129,7 +129,7 @@ In this release, the following enhancements will be available for call transfers
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Support voice channel in Government Community Cloud Moderate
 
@@ -139,7 +139,7 @@ View the complete set of the voice feature capabilities [here](https://learn.mic
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Test call, microphone, speakers before and during calls
 
@@ -150,7 +150,7 @@ With this feature, agents can:
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Transfer calls to Teams users through VOIP
 
@@ -162,7 +162,7 @@ Consult and transfer calls to any Teams user in your organization, regardless of
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Use skills to find agents for consult, transfer scenarios
 
@@ -172,7 +172,7 @@ The UI for the skills-based consult and transfer are enhanced to be modern and u
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Improve productivity by converting voicemail to case
 
@@ -180,7 +180,7 @@ The convert to case option will be available in the voicemail ribbon to convert 
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 # Agent experiences
 
@@ -199,7 +199,7 @@ The key enhancements to the attachment experience are as follows:
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Forecast case volumes daily and at 15-minute intervals
 
@@ -214,7 +214,7 @@ Now, customer service managers can also forecast case volumes at 15-minute inter
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 # Copilot and AI innovation
 
@@ -224,7 +224,7 @@ Copilot in Dynamics 365 Customer Service can help customer service agents in a v
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Get relevant results with filters for Copilot
 
@@ -232,7 +232,7 @@ Filtering results based on knowledge for the appropriate business lines or custo
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Validate Copilot responses faster with more transparency
 
@@ -240,4 +240,4 @@ Copilot in Dynamics 365 Customer Service has been upgraded to provide enhanced t
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->

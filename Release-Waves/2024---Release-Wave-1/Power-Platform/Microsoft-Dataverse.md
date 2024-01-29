@@ -19,7 +19,7 @@ Users will be able to associate an activity record with additional related party
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 # Empower users with copilot and your enterprise data
 
@@ -31,7 +31,7 @@ For more information, go to [Create and configure copilot plugins](https://learn
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 # Enterprise data activation
 
@@ -43,7 +43,7 @@ With this feature, the admin can select the appropriate system views for their r
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Maintain security role privileges for better ALM solution import
 
@@ -53,7 +53,7 @@ With this feature, the system predefined customizable security roles, custom sec
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Share apps and data access modernization
 
@@ -63,7 +63,7 @@ With this feature, makers can easily share their app and table access with their
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Prevent data exfiltration with user level controls
 
@@ -73,7 +73,7 @@ Conditional access on which users can run what authorized apps can be set by the
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 # Build your low-code, hyperscale backend in Dataverse
 
@@ -85,7 +85,7 @@ If the data source has more rows than the delegation limit (500 rows by default,
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 # Data ingestion in Microsoft Dataverse
 
@@ -97,4 +97,4 @@ With this feature, Power Platform admins can set their environments up for scann
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->

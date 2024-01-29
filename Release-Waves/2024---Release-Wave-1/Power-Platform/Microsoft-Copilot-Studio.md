@@ -19,7 +19,7 @@ Customers can provision an Azure Communication Services resource, and then bring
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Use customer managed encryption keys to protect your data
 
@@ -33,7 +33,7 @@ Key capabilities include:
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 # Core authoring
 
@@ -45,7 +45,7 @@ Copilot Studio enables customers to export and import topics across copilots and
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 # Copilot and AI innovation
 
@@ -59,7 +59,7 @@ For more information, go to [Use Generative Actions in Microsoft Copilot Studio 
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Use generative AI insights and other analytics enhancements to improve your copilots
 
@@ -67,7 +67,7 @@ Copilot admins and makers can see new and improved analytics directly in the Mic
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 # Speech and IVR
 
@@ -86,4 +86,4 @@ These capabilities include:
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->

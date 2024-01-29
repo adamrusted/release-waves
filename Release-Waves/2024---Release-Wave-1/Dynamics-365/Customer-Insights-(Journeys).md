@@ -35,7 +35,7 @@
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Capture responses from external, third-party forms
 
@@ -45,7 +45,7 @@
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Easily reference copies of sent emails in the timeline
 
@@ -55,7 +55,7 @@
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Improve engagement and compliance with double opt-in
 
@@ -65,7 +65,7 @@
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Instrument and test real-time events faster with a developer portal
 
@@ -75,7 +75,7 @@
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Optimize engagement and increase conversion rates with email A/B testing
 
@@ -85,7 +85,7 @@
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Prevent duplicate emails to contacts that share an email address
 
@@ -95,7 +95,7 @@
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Reach your customers at the right moment with send scheduling
 
@@ -105,7 +105,7 @@
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Understand and optimize journeys with customer flow analysis
 
@@ -114,7 +114,7 @@
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Ensure messages go to the right contact email address
 
@@ -124,7 +124,7 @@
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Build and test journeys before deploying to production
 
@@ -133,7 +133,7 @@
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Easily manage customer consent from contact and lead forms
 
@@ -143,7 +143,7 @@
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Engage customers with personalized messages based on website interactions
 
@@ -153,7 +153,7 @@
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Get faster insights at scale with auto-management of segments, measures
 
@@ -165,7 +165,7 @@ Users can reactivate segments or measures if needed.
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Improve reliability of insights with advanced bot protection
 
@@ -175,7 +175,7 @@ Users can reactivate segments or measures if needed.
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Collect extra customer information without creating custom attributes
 
@@ -185,7 +185,7 @@ Users can reactivate segments or measures if needed.
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Provide varied experiences in one journey using journey split tiles
 
@@ -196,7 +196,7 @@ The journey split tile creates branches in your journey to split up the particip
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Reach customers quickly with 10x increased throughput
 
@@ -206,7 +206,7 @@ The journey split tile creates branches in your journey to split up the particip
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 # Unify sales and marketing
 
@@ -217,4 +217,4 @@ The journey split tile creates branches in your journey to split up the particip
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->

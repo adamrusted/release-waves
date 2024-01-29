@@ -41,7 +41,7 @@ Customers interested in testing the private preview should reach out to their ac
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Use managed identities for Dataverse plug-ins
 
@@ -49,7 +49,7 @@ With the support of Power Platform managed identities in Dataverse for third-par
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Enhance network security with connectors
 
@@ -68,7 +68,7 @@ For more information, go to [What is subnet delegation?](https://learn.microsoft
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 # Power Platform analytics
 
@@ -84,7 +84,7 @@ We're providing improved capacity usage visibility through the Power Platform ad
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 # Managed Environments for Power Platform
 
@@ -96,7 +96,7 @@ Today, IP-based firewalls for [Microsoft Dataverse APIs](https://learn.microsoft
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Use management connector in Power Automate and Logic Apps
 
@@ -104,7 +104,7 @@ As the [Power Platform API](https://learn.microsoft.com/en-us/rest/api/power-pla
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Use Power Platform Advisor to get recommendations
 
@@ -112,7 +112,7 @@ Power Platform Advisor provides proactive recommendations for admins and makers 
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Stop cookie replay attacks
 
@@ -124,7 +124,7 @@ Today, cookie binding with an IP address doesn't exist, but in 2024 release wave
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 # Power Platform user management experiences
 
@@ -140,7 +140,7 @@ Admins can take advantage of the modern UI to complete the following tasks:
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Use a modern UI to manage security roles
 
@@ -148,7 +148,7 @@ A modern, intuitive UI experience within the Power Platform admin center replace
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Use a modern UI when using Access Team templates
 
@@ -156,4 +156,4 @@ The legacy, web client UI for managing Access Team templates is being updated to
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->

@@ -16,7 +16,7 @@ Web Application Firewall (WAF) for Power Pages is a turnkey solution designed to
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Disable external authentication providers in Power Pages
 
@@ -24,7 +24,7 @@ Currently, administrators have the control to block anonymous access to Datavers
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 # Design studio
 
@@ -39,7 +39,7 @@ File upload enhancements in this feature include:
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 # Professional developer experiences
 
@@ -53,7 +53,7 @@ Using Microsoft Power Platform CLI, you'll be able to:
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
 
 ## Use Site Checker from Microsoft Power Platform CLI
 
@@ -61,4 +61,4 @@ With this feature, you can use a Microsoft Power Platform CLI to run [Site Check
 
 ### Impact
 
-[[Expected impact to your client.]]
+<!-- Expected impact to your client. -->
