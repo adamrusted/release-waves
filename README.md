@@ -15,10 +15,10 @@ A client I work with likes to have a wiki page set up with all the upcoming chan
 The initial commit of this repo only contains products relevant to the client I am working with. I will continue to update the repository with additional information as-and-when it becomes relevant.
 
 - [ ] Dynamics 365
-  - [ ] Microsoft Copilot for Sales
-  - [ ] Marketing
+  - [x] Microsoft Copilot for Sales
+  - [x] Marketing
   - [x] Sales
-  - [ ] Microsoft Sales Copilot
+  - [x] Microsoft Sales Copilot
   - [ ] Commerce
   - [ ] Customer Insights
   - [ ] Customer Insights - Data
