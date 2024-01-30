@@ -18,11 +18,13 @@
 | [Connect Business Central with Shopify B2B](#connect-business-central-with-shopify-b2b)                                                                             |     ---      |    Mar 2024    |       Apr 2024       | <!-- Expected impact to your client. --> |
 | [Define a service invoice posting policy for various users](#define-a-service-invoice-posting-policy-for-various-users)                                             |     ---      |    Mar 2024    |       Apr 2024       | <!-- Expected impact to your client. --> |
 | [Define default location for project or project phase](#define-default-location-for-project-or-project-phase)                                                       |     ---      |    Mar 2024    |       Apr 2024       | <!-- Expected impact to your client. --> |
-| [Get more productive while entering time sheets](#get-more-productive-while-entering-time-sheets)                                                                   |     ---      |    Mar 2024    |       Apr 2024       |                                          |
+| [Get more productive while entering time sheets](#get-more-productive-while-entering-time-sheets)                                                                   |     ---      |    Mar 2024    |       Apr 2024       | <!-- Expected impact to your client. --> |
+| [Invoice a customer for multiple projects](#invoice-a-customer-for-multiple-projects)                                                                               |     ---      |    Mar 2024    |       Apr 2024       | <!-- Expected impact to your client. --> |
 
 # Legislation
 
-## Achieve sustainable compliance with Business Central
+<details>
+<summary><h2 id="achieve-sustainable-compliance-with-business-central">Achieve sustainable compliance with Business Central</h2></summary>
 
 This feature enables you to collect and report on your sustainability activities. The solution is the foundation that will be used for compliance with the European Union's Corporate Sustainability Reporting Directive (CSRD) and other ESG standards.
 
@@ -40,7 +42,10 @@ You can benefit from streamlined business processes and enhanced productivity, i
 
 <!-- Expected Impact to your client. -->
 
-## Automate country of origin listed for item tracking code in Intrastat reporting
+</details>
+
+<details>
+<summary><h2 id="automate-country-of-origin-listed-for-item-tracking-code-in-intrastat-reporting">Automate country of origin listed for item tracking code in Intrastat reporting</h2></summary>
 
 This feature enables users to include the country of origin in item tracking. This enhancement is poised to increase productivity by automatically inheriting the country of origin for items in sales documents from corresponding purchases, eliminating the need for manual intervention. This information will later be used in Intrastat reporting.
 
@@ -52,7 +57,10 @@ Intrastat currently uses **Country of Origin** from the **Item Card**. However, 
 
 <!-- Expected Impact to your client. -->
 
-## See VAT date in posting previews
+</details>
+
+<details>
+<summary><h2 id="see-vat-date-in-posting-previews">See VAT date in posting previews</h2></summary>
 
 This feature provides better overviews, compliant accounting and reporting, and increased productivity related to VAT details.
 
@@ -64,9 +72,12 @@ With this feature, you can view the **VAT Date** when you post previews in docum
 
 <!-- Expected Impact to your client. -->
 
+</details>
+
 # Governance and administration
 
-## Improved update release processes
+<details>
+<summary><h2 id="improved-update-release-process">Improved update release processes</h2></summary>
 
 Improved update release processes ensure that updates run as close to the start of the update window as possible and that updates are made available globally more gradually.
 
@@ -78,7 +89,10 @@ During 2023 release wave 2, we're improving our update release processes. Custom
 
 <!-- Expected Impact to your client. -->
 
-## Use linked environment in Dataverse integration
+</details>
+
+<details>
+<summary><h2 id="use-linked-environment-in-dataverse-integration">Use linked environment in Dataverse integration</h2></summary>
 
 Businesses want to keep their data safe and secure within their privacy boundary, and especially when their business management application integrates with other apps. By linking Business Central and Dataverse environments, you’ll not only achieve those considerations, but also give your administrators an easier way to create and maintain your integrations with other Dynamics 365 apps.
 
@@ -90,7 +104,10 @@ In the Business Central admin center, you can link your Business Central environ
 
 <!-- Expected Impact to your client. -->
 
-## Allow customers to consent to Microsoft Support accessing their data
+</details>
+
+<details>
+<summary><h2 id="allow-customers-to-consent-to-microsoft-support-accessing-their-data">Allow customers to consent to Microsoft Support accessing their data</h2></summary>
 
 Customers can fulfill their data privacy requirements and get support from Microsoft in a way that ensures their explicit consent.
 
@@ -108,7 +125,10 @@ Customers can choose to enable lockbox on their Microsoft Entra tenant to:
 
 <!-- Expected Impact to your client. -->
 
-## Audit Business Central operations in Microsoft Purview
+</details>
+
+<details>
+<summary><h2 id="audit-business-central-operations-in-microsoft-purview">Audit Business Central operations in Microsoft Purview</h2></summary>
 
 This feature provides administrators with a unified and comprehensive view of their organization's operations so they can better monitor and audit events across multiple Microsoft services.
 
@@ -120,7 +140,10 @@ In 2024 release wave 1, auditable events occurring in Dynamics 365 Business Cent
 
 <!-- Expected Impact to your client. -->
 
-## Encrypt data at-rest with customer-managed encryption key
+</details>
+
+<details>
+<summary><h2 id="encrypt-data-at-rest-with-customer-managed-encryption-key">Encrypt data at-rest with customer-managed encryption key</h2></summary>
 
 This capability will allow customers to meet their data and privacy policy according to the standard privacy guidelines.
 
@@ -134,7 +157,10 @@ This feature will be administered in the Power Platform admin center, and will r
 
 <!-- Expected Impact to your client. -->
 
-## Link Business Central environments to Power Platform environments
+</details>
+
+<details>
+<summary><h2 id="link-business-central-environments-to-power-platform-environments">Link Business Central environments to Power Platform environments</h2></summary>
 
 Link your Business Central to a Power Platform environment from the admin center to provide a default target environment for integrations and apply Power Platform environment settings to your Business Central environment. This simplifies the integration process and reduces the need to specify the target environment for each integration.
 
@@ -151,9 +177,12 @@ Business Central environments can only be linked to Power Platform environments 
 
 <!-- Expected Impact to your client. -->
 
+</details>
+
 # Application
 
-## Archive Projects
+<details>
+<summary><h2 id="archive-projects">Archive Projects</h2></summary>
 
 Projects often change and evolve during their lifecycle. The archiving capability gives you control over your project data through audit trails and version control.
 
@@ -187,7 +216,10 @@ The following are known limitations:
 
 <!-- Expected Impact to your client. -->
 
-## Assemble to project
+</details>
+
+<details>
+<summary><h2 id="assemble-to-project">Assemble to project</h2></summary>
 
 Assemble to project helps you improve inventory management by assembling to order only when it's required, and enable other ways to customize projects.
 
@@ -216,7 +248,10 @@ The following are known limitations:
 
 <!-- Expected Impact to your client. -->
 
-## Connect Business Central with Shopify B2B
+</details>
+
+<details>
+<summary><h2 id="connect-business-central-with-shopify-b2b">Connect Business Central with Shopify B2B</h2></summary>
 
 Connecting Shopify B2B and Business Central improves visibility into pricing, customers and their order histories, order status, billing, and payments. Better visibility means faster response to customer inquiries, timely returns and refunds, and more accurate order processing.
 
@@ -293,7 +328,10 @@ Imported orders use the D2C customer or, if available, the B2B company informati
 
 <!-- Expected Impact to your client. -->
 
-## Define a service invoice posting policy for various users
+</details>
+
+<details>
+<summary><h2 id="define-a-service-invoice-posting-policy-for-various-users">Define a service invoice posting policy for various users</h2></summary>
 
 Companies often have unique processes for invoices and shipments. For example, processes can vary from one person posting everything on a service order to multiple employees, each working with their own pages. A setting on the **User Setup** page lets you specify how each user can process service invoices.
 
@@ -329,7 +367,10 @@ When you post service invoices and credit memos, you don't have any posting opti
 
 <!-- Expected Impact to your client. -->
 
-## Define default location for project or project phase
+</details>
+
+<details>
+<summary><h2 id="define-default-location-for-project-or-project-phase">Define default location for project or project phase</h2></summary>
 
 Reduce the time you spend on data entry and focus more on core tasks by specifying a default location and bin for projects on the Project Card page. When you create project tasks, project planning lines, and project journal lines for the project, the default location and bin are automatically assigned. Stay flexible with the ability to change the location code and bin on tasks and lines if needed.
 
@@ -358,7 +399,10 @@ This change doesn't affect purchase documents.
 
 <!-- Expected Impact to your client. -->
 
-## Get more productive while entering time sheets
+</details>
+
+<details>
+<summary><h2 id="get-more-productive-when-entering-timesheets">Get more productive while entering time sheets</h2></summary>
 
 Copying time sheets from previous periods can save you time and effort by reducing the need to manually enter data. The process improves productivity and efficiency by allowing you to quickly and easily create time sheets based on data you already have. Additionally, copying time sheets can help to ensure that your data is consistent and accurate by reducing the risk of data entry errors.
 
@@ -369,3 +413,33 @@ We've made it faster and more efficient to fill out time sheets. You can use the
 ### Impact
 
 <!-- Expected Impact to your client. -->
+
+</details>
+
+<details>
+<summary><h2 id="invoice-a-customer-for-multiple-projects">Invoice a customer for multiple projects</h2></summary>
+
+Simplify your invoicing process by sending one invoice for multiple projects, which reduces manual effort and improves accuracy.
+
+### Feature Details
+
+Add project planning lines from multiple projects to a sales invoice in one go. This process is similar to creating a sales invoice from a project planning line and entering a value in the **Append to Sales Invoice No.** field.
+
+Here's an overview of the process.
+
+- Create a new sales invoice, and fill in the **Sell-to Customer No.** field. If needed, also fill in the **Bill-to Customer No.** and **Currency Code** fields.
+- On the **Lines** FastTab, choose the **Get Project Planning Lines** action. The **Get Project Planning Lines** page shows billable project planning lines from projects for the sell-to customer, bill-to customer, and invoicing currency where the quantity to invoice is more than zero.
+- Choose the lines you want to add to the invoice, and then choose **OK**.
+
+You can repeat these steps to add another set of project planning lines. You can also delete the invoice or its lines and start over.
+
+There are these noteworthy limitations:
+
+- The **Get Project Planning Lines** action isn't available on sales orders or sales quotes.
+- You can't filter on the **Ship-to Code** or **Contact No.** fields.
+
+
+### Impact
+
+<!-- Expected Impact to your client. -->
+</details>
