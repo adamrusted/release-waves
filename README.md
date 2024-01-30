@@ -16,9 +16,9 @@ The initial commit of this repo only contains products relevant to the client I 
 
 - [ ] Dynamics 365
   - [x] Microsoft Copilot for Sales
-  - [x] Marketing
+  - [x] ~~Marketing~~ -No scheduled changes for Marketing.
   - [x] Sales
-  - [x] Microsoft Sales Copilot
+  - [x] ~~Microsoft Sales Copilot~~ - No scheduled changes for Microsoft Sales Copilot.
   - [ ] Commerce
   - [ ] Customer Insights
   - [ ] Customer Insights - Data
@@ -40,5 +40,5 @@ The initial commit of this repo only contains products relevant to the client I 
   - [x] Power Automate
     - [x] AI Builder
   - [x] Microsoft Copilot Studio
-  - [x] Power BI
-  - [x] Data integration
+  - [x] ~~Power BI~~ -No scheduled changes for Power BI.
+  - [x] ~~Data integration~~  -No scheduled changes for Data integration.

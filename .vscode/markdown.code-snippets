@@ -1,0 +1,7 @@
+{
+    "Impact": {
+        "scope": "markdown",
+        "prefix": "imp",
+        "body": "$BLOCK_COMMENT_START Expected impact to ${1:your client}. $BLOCK_COMMENT_END"
+    }
+}

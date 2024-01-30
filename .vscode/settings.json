@@ -1,0 +1,17 @@
+{
+    "emmet.excludeLanguages": [],
+    "emmet.includeLanguages": {
+        "markdown": "html"
+    },
+    "tailwindCSS.emmetCompletions": true,
+    "emmet.extensionsPath": [
+        ".vscode"
+    ],
+    "[markdown]": {
+        "editor.quickSuggestions": {
+            "comments": "on",
+            "strings": "on",
+            "other": "on"
+        }
+    }
+}

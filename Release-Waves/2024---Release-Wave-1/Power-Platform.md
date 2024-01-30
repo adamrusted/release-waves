@@ -8,3 +8,4 @@
   - [AI Builder](./Power-Platform/Power-Automate/AI-Builder.md)
 - [Microsoft Copilot Studio](./Power-Platform/Microsoft-Copilot-Studio.md)
 - ~~Power BI~~ - No scheduled changes for Power BI.
+- ~~Data integration~~ - No scheduled changes for Data integration.
