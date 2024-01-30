@@ -1,6 +1,6 @@
 # Business Central - 2024 Release Wave 1
 
-> ![NOTE]
+> [!WARNING]
 > This page is not yet completed. Please do not share with clients yet!
 
 | Feature                                                                                                                                                             | Early Access | Public Preview | General Availability |             Expected Impact              |
